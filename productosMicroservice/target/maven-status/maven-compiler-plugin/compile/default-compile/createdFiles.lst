@@ -1,0 +1,7 @@
+com\roman\productosmicroservice\dto\Producto.class
+com\roman\productosmicroservice\control\UnidadMedidaController.class
+com\roman\productosmicroservice\repo\UnidadMedidaRepository.class
+com\roman\productosmicroservice\dto\UnidadMedida.class
+com\roman\productosmicroservice\repo\ProductoRepository.class
+com\roman\productosmicroservice\Application.class
+com\roman\productosmicroservice\control\ProductoController.class
