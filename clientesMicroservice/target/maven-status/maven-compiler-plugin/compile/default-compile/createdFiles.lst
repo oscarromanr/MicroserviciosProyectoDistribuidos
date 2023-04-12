@@ -1,0 +1,9 @@
+com\roman\clientesmicroservice\control\ClienteController.class
+com\roman\clientesmicroservice\dto\Producto.class
+com\roman\clientesmicroservice\dto\Venta.class
+com\roman\clientesmicroservice\Application.class
+com\roman\clientesmicroservice\dto\Detalle.class
+com\roman\clientesmicroservice\dto\Inventario.class
+com\roman\clientesmicroservice\dto\Cliente.class
+com\roman\clientesmicroservice\repo\ClienteRepository.class
+com\roman\clientesmicroservice\dto\UnidadMedida.class

@@ -1,0 +1,11 @@
+com\roman\ventasmicroservice\repo\DetalleRepository.class
+com\roman\ventasmicroservice\dto\Detalle.class
+com\roman\ventasmicroservice\dto\Producto.class
+com\roman\ventasmicroservice\control\DetalleController.class
+com\roman\ventasmicroservice\Application.class
+com\roman\ventasmicroservice\control\VentaController.class
+com\roman\ventasmicroservice\dto\UnidadMedida.class
+com\roman\ventasmicroservice\dto\Cliente.class
+com\roman\ventasmicroservice\repo\VentaRepository.class
+com\roman\ventasmicroservice\dto\Inventario.class
+com\roman\ventasmicroservice\dto\Venta.class
